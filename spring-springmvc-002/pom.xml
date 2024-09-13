@@ -73,6 +73,12 @@
             <artifactId>lombok</artifactId>
             <version>1.18.34</version>
         </dependency>
+
+        <dependency>
+            <groupId>commons-net</groupId>
+            <artifactId>commons-net</artifactId>
+            <version>3.8.0</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>spring-springmvc-002</finalName>
