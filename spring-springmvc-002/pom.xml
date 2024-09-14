@@ -79,6 +79,19 @@
             <artifactId>commons-net</artifactId>
             <version>3.8.0</version>
         </dependency>
+
+
+<!--        <dependency>-->
+<!--            <groupId>com.alibaba.nacos</groupId>-->
+<!--            <artifactId>nacos-spring-context</artifactId>-->
+<!--            <version>${latest.version}</version>-->
+<!--        </dependency>-->
+
+        <dependency>
+            <groupId>com.alibaba.nacos</groupId>
+            <artifactId>nacos-spring-context</artifactId>
+            <version>1.1.1</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>spring-springmvc-002</finalName>
